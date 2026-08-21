@@ -18,25 +18,32 @@ This dashboard analyzes sales performance, profitability, and customer trends fo
 - **Data Source**: Excel / SQL
 - **Skills**: Data Modeling, DAX, Data Visualization, Business Intelligence
 
-## Dashboard Screenshots
+## 📊 Dashboard Screenshots
 
-### 1. Welcome
-![Welcome](Welcome.png.png)
+### 1. Welcome Page
+![Welcome](01_Welcome.png)
 
 ### 2. Sales Overview
-![Sales Overview](Sales Overview.png)
+![Sales Overview](02_Sales Overview)
 
 ### 3. Profit Analysis
-![Profit Analysis](Profit Anaylsis.png)
+![Profit Analysis](03_Profit Analysis.png)
 
 ### 4. Time Series Analysis
-![Time Series](Time Serise Anaylsis.png)
+![Time Series Analysis](04_Time Series Analysis)
 
-### 5. Customer Analysis
-![Customer](Coumster Anaylsis.png)
+### 5. Region-wise Analysis
+![Region-wise Analysis](05_Region wise Analysis.png)
 
-### 6. Customer Details
-![Customer Details](Detils coumster Anylsis.png)
+### 6. Customer Analysis
+![Customer Analysis](06_Customer Analysis.png)
+
+### 7. Customer Details Analysis
+![Customer Details Analysis](07_Details customer Analysis.png)
+
+
+
+
 ## How to Use
 1. Download `sales Report.pbix` from this repo
 2. Open it in Power BI Desktop to explore the interactive dashboard
