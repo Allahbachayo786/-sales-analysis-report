@@ -1,22 +1,17 @@
-# Sales Analysis Report
+# Sales Analysis Report - Power BI Dashboard
 
-Power BI dashboard for **Haldyn Heinz Fine Glass Pvt Ltd**  
-*Masters of Glass Manufacturing*
+A complete sales performance dashboard built in Power BI. This project analyzes sales, profit, trends, regional and customer data to provide business insights.
 
-## About This Project
-This dashboard analyzes sales performance, profitability, and customer trends for Haldyn Heinz Fine Glass. The goal is to provide actionable insights for better business decisions.
+## 📁 Files in this Repo
+- **sales Report.pbix** → The full Power BI dashboard file. Open with Power BI Desktop.
+- **sales report.xlsx** → The raw dataset used to build the dashboard.
+- **01_ to 07_ .png** → Screenshots of all 7 dashboard pages below.
 
-## Dashboard Pages
-- **Sales Overview**: Total sales, targets vs actuals, and key KPIs
-- **Profit Analysis**: Profit by product category and region  
-- **Time Series Analysis**: Monthly, quarterly, and yearly trends
-- **Region-wise Analysis**: Performance breakdown by region
-- **Customer Analysis**: Top customers and customer segments
-
-## Tools & Skills Used
-- **Tool**: Power BI Desktop
-- **Data Source**: Excel / SQL
-- **Skills**: Data Modeling, DAX, Data Visualization, Business Intelligence
+## 🛠️ Tools & Skills Used
+- Power BI Desktop
+- DAX & Data Modeling
+- Data Cleaning & Transformation
+- Business Intelligence & Visualization
 
 ## 📊 Dashboard Screenshots
 
@@ -24,13 +19,13 @@ This dashboard analyzes sales performance, profitability, and customer trends fo
 ![Welcome](01_Welcome.png)
 
 ### 2. Sales Overview
-![Sales Overview](02_Sales Overview)
+![Sales Overview](02_Sales Overview.png)
 
 ### 3. Profit Analysis
 ![Profit Analysis](03_Profit Analysis.png)
 
 ### 4. Time Series Analysis
-![Time Series Analysis](04_Time Series Analysis)
+![Time Series Analysis](04_Time Series Analysis.png)
 
 ### 5. Region-wise Analysis
 ![Region-wise Analysis](05_Region wise Analysis.png)
@@ -40,13 +35,3 @@ This dashboard analyzes sales performance, profitability, and customer trends fo
 
 ### 7. Customer Details Analysis
 ![Customer Details Analysis](07_Details customer Analysis.png)
-
-
-
-
-## How to Use
-1. Download `sales Report.pbix` from this repo
-2. Open it in Power BI Desktop to explore the interactive dashboard
-
----
-Created by Allah Bachayo
